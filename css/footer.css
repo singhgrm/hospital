@@ -1,0 +1,33 @@
+#footer
+{
+min-height:380px;
+width:1180px;
+#margin-left:65px;
+#border:5px solid black;
+background-image:url('../images/th.jpg');
+}
+#footer1
+{
+height:280px;
+width:1180px;
+#border:5px solid red; 	
+}
+.f1
+{
+height:300px;
+width:320px;
+color:black;
+#border:2px solid;
+#margin:10px;
+#margin-right:21px;
+float:left;
+#background-color:red;
+#padding:10px;
+}
+#social
+{
+height:100px;
+width:1180px;
+margin-right:100px;
+#border:5px solid green;	
+}
